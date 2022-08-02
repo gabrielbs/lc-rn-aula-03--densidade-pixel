@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lc-rn-aula-03--densidade-pixel",
+    "slug": "lc-rn-aula-03--densidade-pixel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
